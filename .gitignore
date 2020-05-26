@@ -1,0 +1,6 @@
+app/config.ini
+pokedex.sql
+composer.json
+composer.lock
+/vendor
+

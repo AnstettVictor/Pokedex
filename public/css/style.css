@@ -1,0 +1,106 @@
+.type-badge.badge {
+    
+    color: white;
+    
+}
+
+
+.type-badge:hover {
+    
+    color: white;
+}
+
+
+
+a {
+   text-align: center;
+   color: #c14040;
+   margin: 0.2rem;
+}
+a:hover {
+    text-decoration: none;
+    color:#c14040;
+}
+
+nav {
+ padding: 12px;
+}
+
+body {
+
+    background-color: #c14040;
+}
+
+.navheader{
+    border-radius: 1rem;
+    margin: 2rem;
+    background-color:  white;
+
+}
+
+.titre-pokedex {
+
+    color:#c14040;
+    
+  
+
+
+}
+
+.imagePokemon {
+  
+    background-color: #c14040;
+
+}
+
+.cardPokemon {
+    border-radius: 1rem;
+    background-color:#ab3838;
+}
+
+
+.pokemonCard  {
+    border-radius: 1rem;
+    background-color:#ab3838;
+    color: white;
+
+}
+
+.progress {
+     
+    background-color: #632b2b;
+}
+
+h2 {
+    color: white
+}
+
+h5 {
+
+    color: white;
+    margin-bottom: 1.1rem;
+}
+.progress-bar {
+
+    background-color: white;
+}
+
+.list-group-item {
+    color: white;
+    background-color:#ab3838;
+
+}
+
+.badge {
+
+    padding: 0.8rem;
+    margin-bottom: 1.1rem;
+}
+
+.revenirlist {
+    text-align: center;
+
+    color: white;
+
+}
+
