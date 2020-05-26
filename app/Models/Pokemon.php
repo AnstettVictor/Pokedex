@@ -175,8 +175,6 @@ class Pokemon
         // Je recupère le resultat
         $pokemontype = $statement->fetchAll(\PDO::FETCH_CLASS, Pokemon::class);
 
-        // Je retourne l'objet qui contient toutes les données
-        // récupérées depuis la base de données
         return $pokemontype;
     }
 }
