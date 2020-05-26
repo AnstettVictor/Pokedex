@@ -1,16 +1,17 @@
-## Pkédex
+## Pokédex
 
 ### Description
 
-technos : Php, Alto router, Bootstrap
+Technos : Php, Alto router, Bootstrap
+
 ### Utilisation 
 
 - Composer install
 - Ajouter la config.ini   ex : 
-    DB_HOST=
-    DB_USERNAME=
-    DB_PASSWORD=
-    DB_NAME=
+    -   DB_HOST=
+    -   DB_USERNAME=
+    -   DB_PASSWORD=
+    -   DB_NAME=
 - Fichier sql disponnible dans le code source
 - Se rendre sur son localhost http://localhost/pokedex/public/
 
